@@ -7,7 +7,7 @@
 
  📫 How to reach me **johansaidmh1@gmail.com**
 
- 📄 Know about my experiences: Poseo conocimiento y experiencia para desempeñarse en cargos como Frontend Developer, Auxiliar Administrativo, Auxiliar Contable y demás cargos que apoyen la acción administrativa. Soy una persona de muy buenas costumbres, con buenas relaciones personales y mi plan de acción cada día es seguir creciendo como profesional.
+ 📄 Know about my experiences: Poseo conocimiento y experiencia para desempeñarme en cargos como Frontend Developer, Auxiliar Administrativo, Auxiliar Contable y demás cargos que apoyen la acción administrativa. Soy una persona de muy buenas costumbres, con buenas relaciones personales y mi plan de acción cada día es seguir creciendo como profesional.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
