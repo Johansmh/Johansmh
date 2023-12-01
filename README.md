@@ -2,16 +2,13 @@
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 - 🔭 I’m currently working on [Rama Judicial - Corte Suprema de Justicia](https://cortesuprema.gov.co/)
-- 
-- - 📫 How to reach me **johansaidmh1@gmail.com**
-
+- 📫 How to reach me **johansaidmh1@gmail.com**
 - 💬 Ask me about **WordPress, HTML, CSS, ANGULAR, MySQL, GIT, GitLab, GitHub, POSTMAN**
-
 
 - 📄 Know about my experiences [Poseo conocimiento y experiencia para desempeñarse en cargos como Frontend Developer, Auxiliar Administrativo, Auxiliar Contable y demás cargos que apoyen la acción administrativa. Soy una persona de muy buenas costumbres, con buenas relaciones personales y mi plan de acción cada día continuar es seguir creciendo como profesional.](Poseo conocimiento y experiencia para desempeñarse en cargos como Frontend Developer, Auxiliar Administrativo, Auxiliar Contable y demás cargos que apoyen la acción administrativa. Soy una persona de muy buenas costumbres, con buenas relaciones personales y mi plan de acción cada día continuar es seguir creciendo como profesional.)
   
-- - 👨‍💻 Corporate projects are available at
-  * [https://cortesuprema.gov.co/] (https://cortesuprema.gov.co/)
+- 👨‍💻 Corporate projects are available at
+  * *https://cortesuprema.gov.co/**
   * [https://cortesuprema.gov.co/corte/wp-content/themes/ConversatorioLaboral2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/ConversatorioLaboral2023/)
   * [https://cortesuprema.gov.co/corte/wp-content/themes/NacionaleInternacionalCivil2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/NacionaleInternacionalCivil2023/)
   * [https://cortesuprema.gov.co/corte/wp-content/themes/EncuentroJurisdiccionOrdinaria2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/EncuentroJurisdiccionOrdinaria2023/)
