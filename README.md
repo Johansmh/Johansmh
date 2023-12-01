@@ -8,14 +8,14 @@
 - 📄 Know about my experiences Poseo conocimiento y experiencia para desempeñarse en cargos como Frontend Developer, Auxiliar Administrativo, Auxiliar Contable y demás cargos que apoyen la acción administrativa. Soy una persona de muy buenas costumbres, con buenas relaciones personales y mi plan de acción cada día continuar es seguir creciendo como profesional.](Poseo conocimiento y experiencia para desempeñarse en cargos como Frontend Developer, Auxiliar Administrativo, Auxiliar Contable y demás cargos que apoyen la acción administrativa. Soy una persona de muy buenas costumbres, con buenas relaciones personales y mi plan de acción cada día continuar es seguir creciendo como profesional.)
   
 - 👨‍💻 Corporate projects are available at
+
      [Portal Web de la Corte Suprema de Justicia](https://cortesuprema.gov.co/)
-     -**https://cortesuprema.gov.co/corte/wp-content/themes/ConversatorioLaboral2023/**
-  (https://cortesuprema.gov.co/corte/wp-content/themes/ConversatorioLaboral2023/)
-  * [https://cortesuprema.gov.co/corte/wp-content/themes/NacionaleInternacionalCivil2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/NacionaleInternacionalCivil2023/)
-  * [https://cortesuprema.gov.co/corte/wp-content/themes/EncuentroJurisdiccionOrdinaria2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/EncuentroJurisdiccionOrdinaria2023/)
- - - 👨‍💻 Personal projects are available at
-   * [https://apppianocolombiano.netlify.app] (https://apppianocolombiano.netlify.app)
-   * [https://appdadosjsmh.netlify.app] (https://appdadosjsmh.netlify.app)
+     [ XV Conversatorio Nacional de la Especialidad Laboral](https://cortesuprema.gov.co/corte/wp-content/themes/ConversatorioLaboral2023/)
+     [XIII Conversatorio Nacional y III Internacional de la Especialidad Civil, Agraria y Rural](https://cortesuprema.gov.co/corte/wp-content/themes/NacionaleInternacionalCivil2023/)
+     [XXVI Encuentro de la Jurisdicción Ordinaria, La justicia en el mundo actual](https://cortesuprema.gov.co/corte/wp-content/themes/EncuentroJurisdiccionOrdinaria2023/)
+ - 👨‍💻 Personal projects are available at
+     [AppPiano](https://apppianocolombiano.netlify.app)
+     [AppDados](https://appdadosjsmh.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
