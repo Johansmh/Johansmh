@@ -10,11 +10,17 @@
 - 👨‍💻 Corporate projects are available at
 
      [Portal Web de la Corte Suprema de Justicia](https://cortesuprema.gov.co/)
+  
      [ XV Conversatorio Nacional de la Especialidad Laboral](https://cortesuprema.gov.co/corte/wp-content/themes/ConversatorioLaboral2023/)
+  
      [XIII Conversatorio Nacional y III Internacional de la Especialidad Civil, Agraria y Rural](https://cortesuprema.gov.co/corte/wp-content/themes/NacionaleInternacionalCivil2023/)
+  
      [XXVI Encuentro de la Jurisdicción Ordinaria, La justicia en el mundo actual](https://cortesuprema.gov.co/corte/wp-content/themes/EncuentroJurisdiccionOrdinaria2023/)
+  
  - 👨‍💻 Personal projects are available at
+   
      [AppPiano](https://apppianocolombiano.netlify.app)
+   
      [AppDados](https://appdadosjsmh.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
