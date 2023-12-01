@@ -10,13 +10,14 @@
 
 - 📄 Know about my experiences [Poseo conocimiento y experiencia para desempeñarse en cargos como Frontend Developer, Auxiliar Administrativo, Auxiliar Contable y demás cargos que apoyen la acción administrativa. Soy una persona de muy buenas costumbres, con buenas relaciones personales y mi plan de acción cada día continuar es seguir creciendo como profesional.](Poseo conocimiento y experiencia para desempeñarse en cargos como Frontend Developer, Auxiliar Administrativo, Auxiliar Contable y demás cargos que apoyen la acción administrativa. Soy una persona de muy buenas costumbres, con buenas relaciones personales y mi plan de acción cada día continuar es seguir creciendo como profesional.)
   
-- - 👨‍💻 Corporate projects are available at [https://cortesuprema.gov.co/] (https://cortesuprema.gov.co/)
-                                            [https://cortesuprema.gov.co/corte/wp-content/themes/ConversatorioLaboral2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/ConversatorioLaboral2023/)
-                                            [https://cortesuprema.gov.co/corte/wp-content/themes/NacionaleInternacionalCivil2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/NacionaleInternacionalCivil2023/)
-                                            [https://cortesuprema.gov.co/corte/wp-content/themes/EncuentroJurisdiccionOrdinaria2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/EncuentroJurisdiccionOrdinaria2023/)
+- - 👨‍💻 Corporate projects are available at
+  * [https://cortesuprema.gov.co/] (https://cortesuprema.gov.co/)
+  * [https://cortesuprema.gov.co/corte/wp-content/themes/ConversatorioLaboral2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/ConversatorioLaboral2023/)
+  * [https://cortesuprema.gov.co/corte/wp-content/themes/NacionaleInternacionalCivil2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/NacionaleInternacionalCivil2023/)
+  * [https://cortesuprema.gov.co/corte/wp-content/themes/EncuentroJurisdiccionOrdinaria2023/] (https://cortesuprema.gov.co/corte/wp-content/themes/EncuentroJurisdiccionOrdinaria2023/)
  - - 👨‍💻 Personal projects are available at
-                                            [https://apppianocolombiano.netlify.app] (https://apppianocolombiano.netlify.app)
-                                            [https://appdadosjsmh.netlify.app] (https://appdadosjsmh.netlify.app)
+   * [https://apppianocolombiano.netlify.app] (https://apppianocolombiano.netlify.app)
+   * [https://appdadosjsmh.netlify.app] (https://appdadosjsmh.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
