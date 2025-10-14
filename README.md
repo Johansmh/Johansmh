@@ -32,6 +32,8 @@
      [AppEmpleadoList](https://appempleadolistjsmh.netlify.app/) - Aplicación desarrollada con Html, Css, Bootstrap y Angular
    
      [Carrito de compras Ecommerce](https://ecommercecarrirodecompras.netlify.app/) - Aplicación desarrollada con Html, Css, JavaScript
+
+     [Proyecto Envio de Email](https://endearing-daifuku-91da5f.netlify.app/) - Proyecto desarrollado con tecnologías Html, Tailwind css y JavaScript
      
 
 <h3 align="left">Connect with me:</h3>
